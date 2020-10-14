@@ -5,13 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      Full Stack Developer 💻 | Graphic Designer 🎨 | Front End Specialist | Angular, React, Node, Laravel
+      Full Stack Developer 💻 | Graphic Designer 🎨 | Front End Specialist | Angular | React | Node | Laravel
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      I'm a Full Stack Developer 💻 and Graphic Designer 🎨. I'm working on Laravel and Angular and I also have work experience       of Ionic, React and Node JS. I love working on Javascript Technologies 🔥 and learning new stuff.
+      I'm a Full Stack Developer 💻 and Graphic Designer 🎨. I'm working on Laravel and Angular and I also have work experience of Ionic, React and Node JS. I love working on Javascript Technologies 🔥 and learning new stuff.
     actions:
       - label: Contact Me
         url: /contact
